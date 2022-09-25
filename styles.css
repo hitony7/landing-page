@@ -1,0 +1,42 @@
+/* styles.css */
+
+
+#background {
+  background-color: #F5F5DC;
+}
+
+.blockimage {
+  border: 5px solid #555;
+  border-radius: 8px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.center { 
+  padding: 10px 0;
+  text-align: center;
+}
+
+
+div.container {
+  text-align: center;
+}
+
+ul.myUL {
+  display: inline-block;
+  text-align: left;
+}
+
+.fancyfont {
+  font-family: 'Sofia', cursive;
+}
+
+.fontnormal {
+  font-family: 'Roboto', sans-serif;
+}
+
+.recipe {
+  font-size: 20px;
+}
