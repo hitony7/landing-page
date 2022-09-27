@@ -1,7 +1,62 @@
 /* styles.css */
 
 
-header {
-  display: flex
+
+body {
+  margin: 0;
+  padding: 0;
 }
 
+header {
+  display: flex;
+  background-color: #1f2937;
+  color: #f9faf8;
+  font-size: 24px;
+  justify-content: end; 
+  align-items: center;
+}
+
+header div {
+  margin: 10px;
+  padding: 15px;
+  background-color: #1f2937;
+  font-family: 'Roboto', arial;
+}
+
+h1{
+  font-size: 48px;
+  font-weight: bold;
+  color: #F9FAF8;
+  margin: 0;
+  font-family: 'Roboto', arial;
+}
+
+#intro {
+  padding-top: 100px;
+  padding-right: 30px;
+  padding-bottom: 100px;
+  padding-left: 30px;
+  display: flex;
+  background-color: #1f2937;
+  justify-content: center;
+  align-items: center; 
+}
+
+#herotext{
+  flex-basis: 500px;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  margin-right: 50px;
+}
+#SecondaryT {
+  font-size: 18px;
+  color: #E5E7EB;
+  font-family: 'Roboto', arial;
+}
+
+#blockimage {
+  border-radius: 8px;
+  max-width: 100%;
+  height: 400px;  
+}
