@@ -15,6 +15,11 @@ Font and Colors:
 
 ![This is an image](/ReadmeIMGs/02.png)
 
+##### Bonus features 
+
+- Shadowing on text and boxes
+- hovering charcters show quotes
+
 ### About the page
 
 Just a fan page for upcoming anime chainsaw man airing October 11 2022.
