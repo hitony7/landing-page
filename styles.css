@@ -58,6 +58,23 @@ h1{
   text-align: left;
   margin-right: 50px;
 }
+
+#herotext #button {
+  border-radius: 10px;
+  height: 30px;
+  width: 100px;
+  border:3px solid #F9FAF8;
+  color: #F9FAF8;
+  background-color: #3882f6;
+  font-family:  'Roboto', arial;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: 18px;
+  text-decoration:none;
+}
+
 #SecondaryT {
   font-size: 18px;
   color: #E5E7EB;
