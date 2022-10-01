@@ -32,5 +32,5 @@ I don't own the rights to chainsaw man and the pictures are owned and create by 
 #### Issues 
 
 - Header image does disappear if the windows too small
-- Scaling on images are incorrect when windo is resize
+- Scaling on images are incorrect when window is resized
 
