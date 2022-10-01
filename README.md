@@ -1,6 +1,7 @@
 # landing-page
 
 Project from the Odin Project.
+
 Website link: https://hitony7.github.io/landing-page/
 
 ## Objective
