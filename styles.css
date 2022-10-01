@@ -7,6 +7,8 @@ body {
   padding: 0;
 }
 
+/* Header Section */
+
 header {
   display: flex;
   background-color: #1f2937;
@@ -36,6 +38,7 @@ header a {
   text-shadow: 5px 5px black;
 }
 
+/* Intro Section */
 h1{
   font-size: 48px;
   font-weight: bold;
@@ -44,6 +47,7 @@ h1{
   font-family: 'Roboto', arial;
   text-shadow: 5px 5px black;
 }
+
 
 #intro {
   padding-top: 100px;
@@ -105,6 +109,7 @@ header a:hover{
   border-radius: 8px;  
 }
 
+/* info Section */
 
 .infotexthead {
   font-size: 36px;
@@ -193,6 +198,7 @@ img {
   border-radius: 22px;
 }
 
+/* quote  Section */
 #quote {
   margin-top: 150px;
   display: flex;
@@ -221,6 +227,7 @@ img {
   color:#1f2937;
 }
 
+/*pop up section*/
 #popup {
   display: flex;
   justify-content: center;
@@ -279,6 +286,7 @@ img {
 #box #button:hover {
   opacity: 0.5;
 }
+/*footer section*/
 footer{
   display: flex;
   align-items: center;
