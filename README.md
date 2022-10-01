@@ -1,10 +1,11 @@
 # landing-page
 
 Project from the Odin Project.
+Website link: https://hitony7.github.io/landing-page/
 
 ## Objective
 
-To create a landing page with a particular style and incoperating flex box in css.
+To create a landing page with a particular style and incorporating flex box in css.
 
 Pictures below are the referances I used.
 
