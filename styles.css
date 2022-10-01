@@ -14,6 +14,7 @@ header {
   font-size: 24px;
   justify-content: end; 
   align-items: center;
+  padding-right: 2vw;
 }
 #headerimage {
   margin-top: 2vw;
@@ -21,6 +22,7 @@ header {
   width: 100px;
   margin-right: 70vw;
   border-radius: 30px;
+  box-shadow: 5px 5px black;
 }
 
 header a {
@@ -31,6 +33,7 @@ header a {
   color:#F9FAF8;
   font-family: 'Roboto', arial;
   text-decoration:none;
+  text-shadow: 5px 5px black;
 }
 
 h1{
@@ -39,6 +42,7 @@ h1{
   color: #F9FAF8;
   margin: 0;
   font-family: 'Roboto', arial;
+  text-shadow: 5px 5px black;
 }
 
 #intro {
@@ -77,6 +81,7 @@ h1{
   font-weight: bold;
   font-size: 18px;
   text-decoration:none;
+  box-shadow:  2px 2px 3px black;
 }
 
 
@@ -90,6 +95,7 @@ header a:hover{
   font-size: 18px;
   color: #E5E7EB;
   font-family: 'Roboto', arial;
+  text-shadow: 2px 2px black;
 }
 
 #blockimage {
@@ -132,6 +138,7 @@ header a:hover{
   width: 200px;
   height: 250px;
   border-radius: 25px;
+  box-shadow: 10px 10px 5px lightblue;
 }
 
 .box p {
@@ -230,6 +237,7 @@ img {
   padding-right: 20%;
   padding-left: 20%;
   position: relative;
+  box-shadow:  10px 10px 5px lightblue;
 }
 
 #box {
@@ -238,6 +246,7 @@ img {
 }
 
 #box b {
+  font-size: 24px;
   font-weight: bold;
   color: #F9FAF8;
   font-family:  'Roboto', arial;
@@ -245,6 +254,7 @@ img {
 
 #box p {
   margin-top: 5px;
+  font-size: 16px;
   color: #F9FAF8;
   font-family:  'Roboto', arial;
 }
@@ -263,6 +273,7 @@ img {
   font-size: 18px;
   margin-left: 200px;
   text-decoration:none;
+  box-shadow:  2px 2px 3px #1f2937;
 }
 
 #box #button:hover {
