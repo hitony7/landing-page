@@ -15,6 +15,13 @@ header {
   justify-content: end; 
   align-items: center;
 }
+#headerimage {
+  margin-top: 2vw;
+  height: 100px;
+  width: 100px;
+  margin-right: 70vw;
+  border-radius: 30px;
+}
 
 header div {
   margin: 10px;
